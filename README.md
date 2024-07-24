@@ -1,2 +1,2 @@
-# madhav-_store-dashboard
+# maohan_store-dashboard
 Professional Power Bi Dashboard  Complete Power BI project using retail store sales data
